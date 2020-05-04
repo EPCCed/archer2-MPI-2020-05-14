@@ -64,10 +64,16 @@ Fortran, C or C++. It is not possible to do the exercises in Java.
 <p><blockquote>Unless otherwise indicated all material is Copyright &copy; EPCC, The University of Edinburgh, and is only made available for private study. </blockquote></p>
 
 
+<h3>Lecture Slides</h3>
+
+<p><blockquote>Unless otherwise indicated all material is Copyright
+&copy; EPCC, The University of Edinburgh, and is only made available
+for private study. </blockquote></p>
+
 <h4>Wednesday</h4>
 
 <ul>
-<li><a href="slides/L00-ARCHER-PATC-Intro.pdf">ARCHER and the training programme</a>
+<li><a href="slides/L00-ARCHER-PATC-Intro.pdf">ARCHER2 and the training programme</a>
 <li><a href="slides/L00-overview_3day.pdf">Overview of MPI course</a>
 <li><a href="slides/L01-mpconcepts.pdf">Message-Passing Concepts</a>
 <li><a href="slides/E01-traffic.pdf">Parallel Traffic Modelling</a>
