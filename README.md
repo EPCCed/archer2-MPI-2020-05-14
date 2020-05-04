@@ -3,17 +3,54 @@
 <br /><br /><br /><br /><br />
 
 
-# ARCHER 2 LAMMPS course (May 2020)
+# ARCHER 2 MPI course (May 2020)
 
-LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) is a widely-used classical molecular dynamics (MD) code. This C++ code is easy to use, incredibly versatile, and parallelised to run efficiently on both small-scale personal computers and CPU/GPU/CPU&GPU HPC clusters. As of 2018, LAMMPS has been used, to some degree, in over 14,000 publications in fields as varied as chemistry, physics, material science, granular and lubricated-granular flow, etc.
+The world’s largest supercomputers are used almost exclusively to run
+applications which are parallelised using Message Passing. The course
+covers all the basic knowledge required to write parallel programs
+using this programming model, and is directly applicable to almost
+every parallel computer architecture.
 
-The course will be run over three 2.5 hour-long sessions.
+Parallel programming by definition involves co-operation between
+processes to solve a common task. The programmer has to define the
+tasks that will be executed by the processors, and also how these
+tasks are to synchronise and exchange data with one another. In the
+message-passing model the tasks are separate processes that
+communicate and synchronise by explicitly sending each other
+messages. All these parallel operations are performed via calls to
+some message-passing interface that is entirely responsible for
+interfacing with the physical communication network linking the actual
+processors together. This course uses the de facto standard for
+message passing, the Message Passing Interface (MPI). It covers
+point-to-point communication, non-blocking operations, derived
+datatypes, virtual topologies, collective communication and general
+design issues.
 
-The first session will be an introduction to setting up and running an MD simulation using LAMMPS. We will begin by running a simulation of a Lennard-Jones fluid before delving deeper into how simulations can be set up and run in LAMMPS.
+The course is normally delivered in an intensive three-day format
+using EPCC’s dedicated training facilities. It is taught using a
+variety of methods including formal lectures, practical exercises,
+programming examples and informal tutorial discussions. This enables
+lecture material to be supported by the tutored practical sessions in
+order to reinforce the key concepts.
 
-In the second session, we will discuss how to download and install LAMMPS, with a more in-depth discussion of the various packages LAMMPS offers and how to use them efficiently.
+Intended Learning Outcomes
 
-The third session will be a follow-up session for exercises, discussion and questions.
+ * On completion of this course students should be able to:
+
+ * Understand the message-passing model in detail.
+
+ * Implement standard message-passing algorithms in MPI.
+
+ * Debug simple MPI codes.
+
+ * Measure and comment on the performance of MPI codes.
+
+ * Design and implement efficient parallel programs to solve
+regular-grid problems.
+
+Pre-requisite Programming Languages:
+
+Fortran, C or C++. It is not possible to do the exercises in Java.
 
 <h2>Message Passing Programming with MPI</h2>
 
