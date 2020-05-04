@@ -61,11 +61,6 @@ Fortran, C or C++. It is not possible to do the exercises in Java.
 
 <h3>Lecture Slides</h3>
 
-<p><blockquote>Unless otherwise indicated all material is Copyright &copy; EPCC, The University of Edinburgh, and is only made available for private study. </blockquote></p>
-
-
-<h3>Lecture Slides</h3>
-
 <p><blockquote>Unless otherwise indicated all material is Copyright
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
