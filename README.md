@@ -1,4 +1,4 @@
-<img src="./Images/Archer2_logo.png"  width="355" height="100" align="left"> <img src="./Images/epcc_logo.jpg" align="right" width="133" height="100">
+<img src="./images/Archer2_logo.png"  width="355" height="100" align="left"> <img src="./images/epcc_logo.jpg" align="right" width="133" height="100">
 
 <br /><br /><br /><br /><br />
 
