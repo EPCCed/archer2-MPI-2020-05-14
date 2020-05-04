@@ -54,8 +54,8 @@ Fortran, C or C++. It is not possible to do the exercises in Java.
 
 <h2>Message Passing Programming with MPI</h2>
 
-<p><strong>Dates:</strong> 17-19 July 2019</p>
-<p><strong>Location:</strong> EPCC - University of Edinburgh</p>
+<p><strong>Dates:</strong>14th, 15th and 22nd May 2020
+<p><strong>Location:</strong>Online</p>
 
 <p><b>Note: These are draft materials based on a previous run of this course, and may be subject to change.</b><i></i></p>
 
