@@ -80,7 +80,8 @@ Mac
 
 Mac users need to install compilers from the Xcode developer
 package. It is easiest to install MPI using the Homebrew package
-manager -- here are `Instructions on how to install Xcode and Homebrew <https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/>`_.
+manager - here are [Instructions on how to install Xcode and
+Homebrew](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/).
 
 Now install OpenMPI:
 
