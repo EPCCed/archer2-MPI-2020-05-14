@@ -59,6 +59,41 @@ Fortran, C or C++. It is not possible to do the exercises in Java.
 
 <p><b>Note: These are draft materials based on a previous run of this course, and may be subject to change.</b><i></i></p>
 
+<h3>Installing MPI locally</h3>
+
+Note that all registered users will be given access to the Cirrus
+system. Although having MPI installed on your laptop will be
+convenient, do not worry if these instructions do not work for you.
+
+Linux
+-----
+
+Linux users need to install the GNU compilers and a couple of MPI packages,
+e.g. for Ubuntu:
+
+    user@ubuntu$ sudo apt-get install gcc
+    user@ubuntu$ sudo apt-get install openmpi-bin
+    user@ubuntu$ sudo apt-get install libopenmpi-dev
+
+Mac
+---
+
+Mac users need to install compilers from the Xcode developer
+package. It is easiest to install MPI using the Homebrew package
+manager -- here are `Instructions on how to install Xcode and Homebrew
+<https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/>`_.
+
+Now install OpenMPI:
+
+  user@mac$ brew install open-mpi
+
+Windows
+
+Microsoft do supply a version of MPI for Windows.
+
+However, we recommend that Windows users access the Cirrus system using MobaXterm (see above).
+
+
 <h3>Lecture Slides</h3>
 
 <p><blockquote>Unless otherwise indicated all material is Copyright
