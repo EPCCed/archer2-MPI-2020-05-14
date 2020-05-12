@@ -65,8 +65,7 @@ Note that all registered users will be given access to the Cirrus
 system. Although having MPI installed on your laptop will be
 convenient, do not worry if these instructions do not work for you.
 
-Linux
------
+* Linux
 
 Linux users need to install the GNU compilers and a couple of MPI packages,
 e.g. for Ubuntu:
@@ -75,8 +74,7 @@ e.g. for Ubuntu:
     user@ubuntu$ sudo apt-get install openmpi-bin
     user@ubuntu$ sudo apt-get install libopenmpi-dev
 
-Mac
----
+* Mac
 
 Mac users need to install compilers from the Xcode developer
 package. It is easiest to install MPI using the Homebrew package
@@ -85,14 +83,15 @@ Homebrew](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-
 
 Now install OpenMPI:
 
-  user@mac$ brew install open-mpi
+    user@mac$ brew install open-mpi
 
-Windows
+* Windows
 
-Microsoft do supply a version of MPI for Windows.
+Microsoft do supply a version of ]MPI for
+Windows](https://msdn.microsoft.com/en-us/library/bb524831(v=vs.85).aspx).
 
-However, we recommend that Windows users access the Cirrus system using MobaXterm (see above).
-
+However, we recommend that Windows users access the Cirrus system
+using [MobaXterm](https://www.archer2.ac.uk/training/training-software).
 
 <h3>Lecture Slides</h3>
 
