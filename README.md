@@ -145,6 +145,7 @@ for private study. </blockquote></p>
 
 <p><blockquote>Unless otherwise indicated all material is Copyright &copy; EPCC, The University of Edinburgh, and is only made available for private study. </blockquote></p>
 
+* [MPI exercise sheet](exercises/MPP-exercises.pdf)
 
 <ul>
 <li><a href="exercises/road.pdf">Traffic modelling exercise sheet</a></li>
