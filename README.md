@@ -50,14 +50,12 @@ regular-grid problems.
 
 Pre-requisite Programming Languages:
 
-Fortran, C or C++. It is not possible to do the exercises in Java.
+Fortran, C or C++. It is not possible to do the exercises in Python or Java.
 
 <h2>Message Passing Programming with MPI</h2>
 
 <p><strong>Dates:</strong>14th, 15th and 22nd May 2020
 <p><strong>Location:</strong>Online</p>
-
-<p><b>Note: These are draft materials based on a previous run of this course, and may be subject to change.</b><i></i></p>
 
 <h3>Installing MPI locally</h3>
 
