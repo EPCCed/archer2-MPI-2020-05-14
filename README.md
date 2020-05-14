@@ -93,6 +93,13 @@ Windows](https://msdn.microsoft.com/en-us/library/bb524831(v=vs.85).aspx).
 However, we recommend that Windows users access the Cirrus system
 using [MobaXterm](https://www.archer2.ac.uk/training/training-software).
 
+<h3>Guest accounts on the NEXTGenIO system</h4>
+
+    ssh -XY ngguestXX@hydra-vpn.epcc.ed.ac.uk
+    ssh -XY nextgenio-login2
+
+Here are the [assignments of account names to users](exercises/accounts.txt)
+
 <h3>Lecture Slides</h3>
 
 <p><blockquote>Unless otherwise indicated all material is Copyright
