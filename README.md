@@ -155,6 +155,7 @@ for private study. </blockquote></p>
 <li><a href="exercises/NEXTGenIO-MPI-cribsheet.pdf">Instructions for logging on, compiling and running on NEXTGenIO</a></li>
 <li><a href="exercises/Cirrus-MPI-cribsheet.pdf">Instructions for logging on, compiling and running on Cirrus</a></li>
 <li><a href="exercises/MPP-templates.tar">Useful files and pieces of code: MPP-templates.tar</a></li>
+<li><a href="exercises/hello.job">Example Slurm Script - all instructions included as comments</a></li>
 <li><a href="exercises/MPP-exercises.pdf">MPI exercise sheet</a></li>
 <li><a href="exercises/MPP-pi.tar">Detailed solutions to pi calculation example</a>
 <li><a href="exercises/MPP-solutions.tar">Simple example solutions to all exercises</a>
