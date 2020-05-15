@@ -1,0 +1,20 @@
+#!/bin/bash
+#SBATCH --nodes=1
+#SBATCH --time=00:01:00
+#SBATCH --job-name=hello
+#SBATCH --nvram-option=1LM:1000
+#SBATCH --cpus-per-task=1
+
+# To submit this job to SLURM use: sbatch hello.job
+
+export PSM2_MULTIRAIL=1
+export PSM2_MULTIRAIL_MAP=0:1,1:1
+
+# The following line runs 4 processes with 48 processes per node
+# (i.e. all processes on one node). If you want to run on more than 48
+# processes, you need to increase the value of "nodes" at the top of
+# this file. For example, for 80 processes you would set nodes=2 and
+# use: mpirun -n 80 -ppn 48 ./hello, which would place 48 processes on
+# the first node and the remaining 32 on the second.
+
+mpirun -n 4 -ppn 48 ./hello
