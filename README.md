@@ -98,7 +98,7 @@ follow the Linux installation instructions above.
 
 I know that some users have been able to install MPI natively on
 Windows using the [Intel Parallel
-Studio](https://software.intel.com/content/www/us/en/develop/documentation/mpi-developer-guide-windows/top.html)
+Studio](https://software.intel.com/content/www/us/en/develop/tools/parallel-studio-xe/choose-download.html)
 compilers and the [Intel MPI
 library](https://software.intel.com/content/www/us/en/develop/documentation/mpi-developer-guide-windows/top.html).
 
