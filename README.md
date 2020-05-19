@@ -85,11 +85,22 @@ Now install OpenMPI:
 
 <h4>Windows</h4>
 
-Microsoft do supply a version of [MPI for
-Windows](https://msdn.microsoft.com/en-us/library/bb524831(v=vs.85).aspx).
+We recommend that Windows users access the EPCC systems (e.g. Cirrus
+or NEXTGenIO) using
+[MobaXterm](https://www.archer2.ac.uk/training/training-software).
 
-However, we recommend that Windows users access the Cirrus system
-using [MobaXterm](https://www.archer2.ac.uk/training/training-software).
+However, that may not be possible at present due to the ongoing
+security issues affecting many supercomputers worldwide including
+systems at EPCC.
+
+One solution is to install a Linux virtual machine (e.g. Ubuntu) and
+follow the Linux installation instructions above.
+
+I know that some users have been able to install MPI natively on
+Windows using the [Intel Parallel
+Studio](https://software.intel.com/content/www/us/en/develop/documentation/mpi-developer-guide-windows/top.html)
+compilers and the [Intel MPI
+library](https://software.intel.com/content/www/us/en/develop/documentation/mpi-developer-guide-windows/top.html).
 
 <h3>Guest accounts on the NEXTGenIO system</h4>
 
