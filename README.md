@@ -154,7 +154,7 @@ for private study. </blockquote></p>
 
 <ul>
 <li><a href="notes/MPP-notes.pdf">MPI course notes (historical)</a>
-<li><a href="notes/MPP-f90issues.txt">Issues with non-blocking calls and f90 array syntax</a>
+<li><a href="notes/MPP-f90issues.pdf">Issues with non-blocking calls and f90 array syntax</a>
 </ul>
 
 <h3>Exercise Material</h3>
