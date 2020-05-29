@@ -143,8 +143,8 @@ for private study. </blockquote></p>
 <h4>Friday</h4>
 
 <ul>
+<li>Screenshots of the MPI Quiz showing correct answers and explanations <a href="exercises/MPP-quiz-q01-03.png">q01-03</a>
 <li><a href="slides/L11-casestudy.pdf">Case Study</a>
-<li><a href="https://b.socrative.com/login/student/">MPI Quiz</a> - enter the Room Name <b>HPCQUIZ</b>
 <li><a href="slides/L12-tipsandtricks.pdf">MPI Tips and Tricks (includes dynamic memory allocation in C and array syntax issues in Fortran)</a>
 <li><a href="slides/L13-scaling.pdf">MPI Scaling (not delivered as part of this course but included for reference)</a>
 </ul>
