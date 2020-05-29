@@ -144,10 +144,9 @@ for private study. </blockquote></p>
 
 <ul>
 <li><a href="slides/L11-casestudy.pdf">Case Study</a>
-<li><a href="slides/MPP-memory.pdf">Dynamic Memory Allocation in C</a>
 <li><a href="https://b.socrative.com/login/student/">MPI Quiz</a> - enter the Room Name <b>HPCQUIZ</b>
-<li><a href="slides/L12-mpidesign.pdf">MPI Design</a>
-<li><a href="slides/L13-scaling.pdf">MPI Scaling</a>
+<li><a href="slides/L12-tipsandtricks.pdf">MPI Tips and Tricks (includes dynamic memory allocation in C and array syntax issues in Fortran)</a>
+<li><a href="slides/L13-scaling.pdf">MPI Scaling (not delivered as part of this course) but included for reference)</a>
 </ul>
 
 <h3>Notes</h3>
