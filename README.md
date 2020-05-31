@@ -35,7 +35,7 @@ order to reinforce the key concepts.
 
 Intended Learning Outcomes
 
- * On completion of this course students should be able to:
+On completion of this course, students should be able to:
 
  * Understand the message-passing model in detail.
 
